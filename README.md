@@ -2,10 +2,7 @@
 Study of 93 Portugal Programmer salaries
 
 | Cargo         | 
-| ------------- | 
-| Frontend      |
-| Fullstack     |
-| Fullstack     
+| ------------- | +
 
 Portugal
 
